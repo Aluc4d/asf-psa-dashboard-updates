@@ -1,0 +1,12 @@
+{
+  "app_name": "ASF PSA Dashboard",
+  "developer": "Aluc4d",
+  "latest_version": "1.1.0",
+  "force_update": true,
+  "download_url": "https://raw.githubusercontent.com/Aluc4d/asf-psa-dashboard-updates/main/ASF_PSA_Dashboard.exe",
+  "changelog": [
+    "Improved auto-loot logic",
+    "Added User Settings panel",
+    "Bug fixes and UI polish"
+  ]
+}
